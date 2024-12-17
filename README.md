@@ -8,7 +8,8 @@ Extracted the 1D signal vector from pixel values corresponding to the ECG trace 
 ##### R-Peak Detection:
 Implemented algorithms to identify R-peaks within the extracted ECG signal, facilitating the segmentation and analysis of cardiac cycles.
 
-![image](https://github.com/user-attachments/assets/a04e2102-e144-44b4-89ca-84e68fc88922)
+![image](https://github.com/user-attachments/assets/8b7ed8f9-5d6f-4421-bf81-9cb356421dbf)
+
 
 ![image](https://github.com/user-attachments/assets/314f44ab-b3f3-4c2f-8f71-95f70bc709ac)
 
