@@ -22,7 +22,6 @@ Enhancing synchronization in multi-view echocardiography datasets.
 Supporting research in automated heart disease detection using aligned cardiac cycles.
 ![image](https://github.com/user-attachments/assets/5f10a28f-07cf-4ba5-9c40-e6b68fc26e0d)
 
-![image](https://github.com/user-attachments/assets/a0f5325f-c964-4396-82c1-488b26ff9c3f)
 
 
 
